@@ -1,3 +1,43 @@
+Need to be Good At:
+
+Selenium 
+Testng
+Cucumber 
+Rest assured 
+Postman 
+Junit 
+
+Jira 
+Xray
+Testrail 
+Confluence 
+
+Maven
+Jenkins 
+Git
+
+Java
+Sql
+Software testing 
+Sdlc
+Stlc
+Agile 
+Devops 
+Manual testing basics
+Data structures
+Html
+Css
+Javascript 
+
+
+
+
+
+
+
+
+
+
 selenium : https://youtube.com/playlist?list=PLUDwpEzHYYLtQzEEEldbjPAR-gnStv4sR&si=CsgiFmj3NVETy6y_   
 
                                        
